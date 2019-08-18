@@ -9,7 +9,7 @@ license = "GPL-3.0"
 edition = "2018"
 
 [dependencies]
-wasm-bindgen = "0.2.49"
+wasm-bindgen = "0.2.48"
 js-sys = "0.3.25"
 kvdb = { version = "0.1", path = "../kvdb" }
 kvdb-memorydb = { version = "0.1", path = "../kvdb-memorydb" }
